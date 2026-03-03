@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-public class PrintOopsUc1 {
-    public static void main(String[] args) {
-        System.out.println("OOPS");
-    }
-=======
 public class UC2 {
 	public static void main(String[] args) {
 		System.out.println("   ***   " + " " + "   ***   " + " " + "  *****  " + " " + "   ***** ");
@@ -15,6 +9,5 @@ public class UC2 {
         System.out.println("   ***   " + " " + "   ***   " + " " + "**       " + " " + "  *****  ");
 		
 	}
->>>>>>> feature/uc2-printbanner
 }
 
